@@ -1,2 +1,5 @@
 # PowerShellScript
 PowerShellとかの勉強用につくったおもちゃスクリプト置き場
+# MoveDuplicateNameFiles
+ファイル名に(数値)がついたファイルをまとめるスクリプト
+第1引数でディレクトリ指定する、デフォルトはカレントディレクトリ
