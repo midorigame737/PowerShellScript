@@ -1,0 +1,2 @@
+# PowerShellScript
+PowerShellとかの勉強用につくったおもちゃスクリプト置き場
