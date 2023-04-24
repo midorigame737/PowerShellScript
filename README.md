@@ -9,6 +9,9 @@ PowerShellとかの勉強用につくったおもちゃスクリプト置き場
 作ったディレクトリ内にA.cpp,B.cpp…F.cppができる
 できたファイルの中身は以下の通り  
 ```
+$ mkcpps directoryName
+```
+```
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
